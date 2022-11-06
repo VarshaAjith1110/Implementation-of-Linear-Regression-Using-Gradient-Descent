@@ -57,10 +57,10 @@ plt.ylabel("loss")
 
 ```
 ## Output:
-![linear regression using gradient descent](s1.png)
-![linear regression using gradient descent](s2.png)
-![linear regression using gradient descent](s3.png)
 
+![ml1](https://user-images.githubusercontent.com/94222288/200175017-ab7e11da-aaa7-4782-b446-87ebd4039783.png)
+![ml2](https://user-images.githubusercontent.com/94222288/200175028-80d74ae4-f832-4533-b713-71f127e7ab1b.png)
+![ml3](https://user-images.githubusercontent.com/94222288/200175030-81f51e78-4c1a-4510-a944-7e2a19a6eb03.png)
 
 
 ## Result:
